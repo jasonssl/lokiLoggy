@@ -1,5 +1,5 @@
 @ECHO OFF
-@REM Author: Jason LimSS
+@REM Author: Jason Lim
 
 SET sOURCE=%~dp0winlog\
 SET DESTINATION="C:\Program Files\winlog"
